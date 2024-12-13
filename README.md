@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 Here are some of the technologies and tools I'm currently using:
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Web**: HTML, CSS, React, Node.js, Angular
+- **Languages**: Python, JavaScript,
+- **Web**: HTML, CSS, React, Node.js
 - **Database**: MySQL, MongoDB
 - **Tools**: Git, VS Code, AWS
 
@@ -28,7 +28,7 @@ Here are some of the technologies and tools I'm currently using:
 
 ## 📢 Let's Connect
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 Twitter: [@yourhandle](https://x.com/gagan_yadav_75)
 - 🌐 Website/Portfolio: [codegalaxy.com](https://codegalaxyportfolio.vercel.app/)
 - 💼 LinkedIn: [Gagan Yadav](https://www.linkedin.com/in/gagan-yadav-14a38a2ba)
 
