@@ -28,7 +28,7 @@ Here are some of the technologies and tools I'm currently using:
 
 ## 📢 Let's Connect
 
-- 🐦 Twitter: [@yourhandle](https://x.com/gagan_yadav_75)
+- 🐦 Twitter: [@gagan_yadav_75](https://x.com/gagan_yadav_75)
 - 🌐 Website/Portfolio: [codegalaxy.com](https://codegalaxyportfolio.vercel.app/)
 - 💼 LinkedIn: [Gagan Yadav](https://www.linkedin.com/in/gagan-yadav-14a38a2ba)
 
