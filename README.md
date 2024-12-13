@@ -29,7 +29,7 @@ Here are some of the technologies and tools I'm currently using:
 ## 📢 Let's Connect
 
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Website/Portfolio: [codegalaxy.com](https://codegalaxyportfolio.com)
+- 🌐 Website/Portfolio: [codegalaxy.com](https://codegalaxyportfolio.vercel.app/)
 - 💼 LinkedIn: [Gagan Yadav](https://www.linkedin.com/in/gagan-yadav-14a38a2ba)
 
 Feel free to check out my repositories and contribute to any project you're interested in! Thanks for visiting. 😄
